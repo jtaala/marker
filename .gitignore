@@ -55,3 +55,7 @@ docs/_build/
 
 # PyBuilder
 target/
+
+marker\.sh
+
+user_commands\.txt
